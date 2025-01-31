@@ -1,0 +1,10 @@
+'¡Estás de vuelta ${clientName}! 🎉 Gracias por seguir eligiendo a los mejores. En Smartfood, tus antojos siempre son nuestra prioridad y sabemos cómo cumplirlos como nadie. 🚀🍔',
+'¡Bienvenido de nuevo a la experiencia que no tiene rival! 💪 ${clientName} aquí, tu hambre manda y nosotros obedecemos con la mejor comida y un servicio que no perdona errores. 😉',
+'¡Tú ya sabes cómo va esto ${clientName}! 🔥 Aquí no hay segundas opciones, solo la comida rápida más brutal y un servicio imbatible. ¡Vamos a lo que viniste, a disfrutar! 🚀',
+'¡${clientName} Volviste a la que nunca te defrauda, crack! 🔥 Tú confías en nosotros porque Smartfood no falla una. Hagamos esto rápido, porque sabemos que no puedes esperar. 😎',
+'¡Aquí estamos de vuelta ${clientName}! 🎯 Nadie entiende tus gustos como nosotros, no solo tomaste la mejor decisión, sino la única 🏆. Porque todo lo demás ya no tiene sentido, Calidad brutal, rapidez imbatible y una experiencia inigualable.🔥🚀',
+'¡Hey ${clientName}, te damos la bienvenida de vuelta! 💥 Si estás aquí, sabes que no jugamos con tu tiempo ni con tu hambre. Smartfood es comida rápida, deliciosa y sin excusas. ¡A lo que viniste! 😉',
+'Sabíamos que volverías ${clientName}. 😏 Porque cuando pruebas la mejor comida y el mejor servicio, no hay marcha atrás. ¡Vamos a por otro pedido épico! 🔥',
+'¡WOW ${clientName}! 🏆 Nos emociona saludarte! En Smartfood, tú eres la estrella y nosotros somos los que no fallan. Dale, que estamos listos para ti. 🚀',
+'¡Orgullosos de tenerte de vuelta ${clientName}, que crack! 💪 Tú sabes que aquí no jugamos con tu hambre. Te damos comida increíble y la llevamos a tu puerta como nadie más. ¡Hagámoslo otra vez! 🍔✨',
+'¡Nunca dudamos un segundo que volverías ${clientName}! 👑 Aquí no hay competencia: vuelves porque sabes que solo en Smartfood te damos lo que te mereces. ¡A disfrutar! 🚀🍟'

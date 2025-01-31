@@ -1,0 +1,6 @@
+'¡Aqui tu mandas! 🔥 Ajusta tus direcciones, tu nombre, revisa tu historial de pedidos: 
+
+1. Direcciones📍
+2. Actualizar Nombre 👤
+3. Pedidos 📦
+4. Volver ↩️'
